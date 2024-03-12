@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-http-error",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
